@@ -1,0 +1,28 @@
+title: Duy Toan
+description: My Personal Blog
+author: Duy Toan
+logo: /static/img/avata.jpg
+github: https://github.com/nguyenduytoan96
+about: A winner never stops trying
+
+baseurl: ""
+url: "https://nguyenduytoan96.github.io"
+
+allowsearch: true
+
+disqus_shortname: DuyToan
+google_analytics: UA-105390131-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]

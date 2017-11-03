@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Home",
+    "url": "/",
+    "icon": "fa-home",
+    "layout": "post"
+  },
+  {
+    "text": "About",
+    "url": "/about/",
+    "icon": "fa-user"
+  },
+  {
+    "text": "Resume",
+    "url": "/category/others",
+    "icon": "fa-graduation-cap",
+  },
+  {
+    "text": "Projects",
+    "url": "/projects",
+    "icon": "fa-desktop"
+  },
+  {
+    "text": "Videos",
+    "url": "/videos",
+    "icon": "fa-youtube-play"
+  },
+  {
+    "text": "Category",
+    "url": "/category/others",
+    "icon": "fa-graduation-cap",
+  },
+  {
+    "text": "Contact",
+    "url": "/videos",
+    "icon": "fa-envelope-o"
+  },
+  {
+    "text": "XML Feed",
+    "url": "/feed.xml",
+    "icon": "fa-feed",
+    "target": _blank  
+  }
+]
